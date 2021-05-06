@@ -1,5 +1,5 @@
-"# Corona-2021-Analysis" 
-![world_map](images/world_heat_map.png)
+# Coronavirus World Heat Map
+![world_map](images/world_heat_map.PNG)
 # Coronavirus plot
 ![plot](images/corona_plot.png)
 
@@ -10,8 +10,6 @@
 - [x] matplotlib
 - [x] pandas
 - [x] numpy
-- [x] geopandas
 - [x] folium
 - [x] math
-- [x] imageio
 - [x] datetime
